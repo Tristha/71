@@ -1,0 +1,63 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+marquee{
+    font-size: 20px;
+    background-color: greenyellow;
+    color: red;
+}
+img{
+    width: 100%;
+}
+.contact_1 img{
+    height: 300px ;
+    width: 300px ;
+} 
+.achievments i{
+    float: right;
+}
+.achievments{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
+}
